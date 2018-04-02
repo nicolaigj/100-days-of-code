@@ -36,3 +36,4 @@ End date: 2018-07-12
 10. Rules are rules, but if one day I have a huge craving for some specific type of food, I will allow myself to eat it. The catch is that it will be a small amount.
 11. I will drink at least 2 litres of water daily. 
 12. I will minimize alcohol consumption to 3 beers or half a bottle wine a week. 
+13. While eating out I will choose the healthier option.
