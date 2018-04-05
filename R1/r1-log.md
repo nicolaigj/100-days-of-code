@@ -20,7 +20,7 @@ Had a workout with two of my colleagues here in Oslo, interval running in Frogne
 
 ### R1D3
 #### Coding
-Just did an hour of coding while eating breakfast at the hotel. Building the navigation bar in my theme dynamically with jinja2, pretty cool! 
+Just did an hour of coding while eating breakfast at the hotel. Building the navigation bar in my theme dynamically with jinja2, pretty cool! Did not write a lot of lines of code, spent some time reading documentation and code examples to learn the framework. 
 
 #### Health
 Had breakfast, one slice of bread with ham and cheese and a bowl of yoghurt, granola and berries.  
