@@ -16,4 +16,11 @@ Chose healthy all day, I usually have a croissant in the morning at the airport,
 Got more than an hour of coding today. Figured out how to build a template in Pelican and started with bootstrap. 
 
 #### Health
-Had a workout with two of my colleagues here in Oslo, interval running in Frognerparken. Ran from the office to Frognerparken and did 2 x 10 intervals of 45 seconds sprinting and 15 seconds break. Had three course dinner, way too much food, could not finish. It was also quite meh.  
+Had a workout with two of my colleagues here in Oslo, interval running in Frognerparken. Ran from the office to Frognerparken and did 2 x 10 intervals of 45 seconds sprinting and 15 seconds break. Had three course dinner, way too much food, could not finish. It was also quite meh. 
+
+### R1D3
+#### Coding
+Just did an hour of coding while eating breakfast at the hotel. Building the navigation bar in my theme dynamically with jinja2, pretty cool! 
+
+#### Health
+Had breakfast, one slice of bread with ham and cheese and a bowl of yoghurt, granola and berries.  
