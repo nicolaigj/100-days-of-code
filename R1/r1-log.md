@@ -23,8 +23,11 @@ Had a workout with two of my colleagues here in Oslo, interval running in Frogne
 Just did an hour of coding while eating breakfast at the hotel. Building the navigation bar in my theme dynamically with jinja2, pretty cool! Did not write a lot of lines of code, spent some time reading documentation and code examples to learn the framework. 
 
 #### Health
-Had breakfast, one slice of bread with ham and cheese and a bowl of yoghurt, granola and berries.  
+Had breakfast, one slice of bread with ham and cheese and a bowl of yoghurt, granola and berries. Pizza and beer at my company in the evening, but only had two beers instead of probably ten, and moderate pizza. 
 
 ### R1D4
 #### Coding
-Coded a half an hour at breakfast, trying to figure out what a page is in pelican, so I can render menu correctly. 
+Coded a half an hour at breakfast, trying to figure out what a page is in pelican, so I can render menu correctly. Finished the last half hour before bed, found some bugs in the menu and figured out what pages were. Tip of the day: Read the docs!
+
+#### Health
+Had a good day, resisted beers at work, but had a glass of wine to dinner, still 10% of what I would normally consume. No workout, only work :(
