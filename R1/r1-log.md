@@ -24,3 +24,7 @@ Just did an hour of coding while eating breakfast at the hotel. Building the nav
 
 #### Health
 Had breakfast, one slice of bread with ham and cheese and a bowl of yoghurt, granola and berries.  
+
+### R1D4
+#### Coding
+Coded a half an hour at breakfast, trying to figure out what a page is in pelican, so I can render menu correctly. 
