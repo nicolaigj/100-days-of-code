@@ -31,3 +31,7 @@ Coded a half an hour at breakfast, trying to figure out what a page is in pelica
 
 #### Health
 Had a good day, resisted beers at work, but had a glass of wine to dinner, still 10% of what I would normally consume. No workout, only work :(
+
+### R1D5
+#### Code
+Finished the menu for now, starting on creating template for the content. More importantly, I found the name for my blog, Nicode!
