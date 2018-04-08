@@ -35,3 +35,10 @@ Had a good day, resisted beers at work, but had a glass of wine to dinner, still
 ### R1D5
 #### Code
 Finished the menu for now, starting on creating template for the content. More importantly, I found the name for my blog, Nicode!
+
+#### Health
+Visited Mathallen in Oslo, had Fish and Chips, not the most healthy option, but since I read a review about the fish and chips a couple of months ago I could not resist. Didn't finish it all. Had 3 beers that day in total. Not the most healthy day, but in a normal situation I would've had a lot more.
+
+### R1D6
+#### Code
+Getting more and more into bootstrap now, while developing my template I'm watching this [Bootstrap 4 tutorial](https://www.youtube.com/watch?v=hnCmSXCZEpU), pretty good!
