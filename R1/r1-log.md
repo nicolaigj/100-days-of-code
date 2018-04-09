@@ -42,3 +42,13 @@ Visited Mathallen in Oslo, had Fish and Chips, not the most healthy option, but 
 ### R1D6
 #### Code
 Getting more and more into bootstrap now, while developing my template I'm watching this [Bootstrap 4 tutorial](https://www.youtube.com/watch?v=hnCmSXCZEpU), pretty good!
+
+#### Health
+Lazy day, didn't eat or move much, exept from a 40 minute walk. 
+
+### R1D7
+#### Code
+Tried to code at breakfast, but windows update effectively stopped my plan of being effective in the morning. Ended up coding after work, a bit tired but I made it through. Working on list representation of the articles on the article page. 
+
+#### Health
+Good day, had wok with noodles for lunch. Today I'll do a workout at the hotel before dinner. Dinner will either be japanese at Izakaya or probably pizza at Villa Paradiso. 
