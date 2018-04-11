@@ -52,3 +52,7 @@ Tried to code at breakfast, but windows update effectively stopped my plan of be
 
 #### Health
 Good day, had wok with noodles for lunch. Today I'll do a workout at the hotel before dinner. Dinner will either be japanese at Izakaya or probably pizza at Villa Paradiso. 
+
+### R1D8 It's my birtday!
+#### Code
+Spent time reading documentation, figuring out how to define a front image to display in the article list so it won't become a wall of text. 
