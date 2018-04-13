@@ -56,3 +56,20 @@ Good day, had wok with noodles for lunch. Today I'll do a workout at the hotel b
 ### R1D8 It's my birtday!
 #### Code
 Spent time reading documentation, figuring out how to define a front image to display in the article list so it won't become a wall of text. 
+
+#### Health
+Worked out, ran about 5 km around Slottet. 
+
+### R1D9 
+#### Coding
+No coding :(
+
+#### Health
+No exercise, but didn't eat anything unhealthy. Celebrated birthday with Ragnhild and a bottle of wine. 
+
+### R1D10
+#### Coding
+Continued on templating index.html. Starting to get there with my article display. 
+
+#### Health
+Didn't have waffle or cake at lunch, or beer and snacks at friday meeting. Ate grilled entrecote with potatoes and salad and had a beer for dinner. 
