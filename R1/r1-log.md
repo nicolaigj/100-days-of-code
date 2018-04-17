@@ -73,3 +73,17 @@ Continued on templating index.html. Starting to get there with my article displa
 
 #### Health
 Didn't have waffle or cake at lunch, or beer and snacks at friday meeting. Ate grilled entrecote with potatoes and salad and had a beer for dinner. 
+
+### R1D11
+#### Coding
+Coded in the morning before bachelor party! Not an entire hour, but enough.
+
+#### Health
+Bachelor party, maaaaany beers and enough food. Bad day healthwise. 
+
+### R1D12
+#### Coding
+Back to normal, coded now before bed. Working on pagination and stuff. Starting to get to a point where I consider putting it up in public. 
+
+#### Health 
+Good day, had a lot of vegetables for lunch and dinner. Went for the years first bike ride, 36 km. Felt good!
