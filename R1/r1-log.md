@@ -87,3 +87,17 @@ Back to normal, coded now before bed. Working on pagination and stuff. Starting 
 
 #### Health 
 Good day, had a lot of vegetables for lunch and dinner. Went for the years first bike ride, 36 km. Felt good!
+
+### R1D13
+#### Coding
+No coding, only commitments :(
+
+#### Health
+Didn't eat proper dinner, but nothing unhealthy altogether. 
+
+### R1D14
+#### Coding
+Got an hour of code at work. Figuring out how to remove borders in list group item. 
+
+#### Health
+Dentist today, not easy eating lunch! Had dessert though, not that healthy, but it was the only way I could have some calories. 
