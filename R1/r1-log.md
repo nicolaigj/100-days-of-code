@@ -101,3 +101,12 @@ Got an hour of code at work. Figuring out how to remove borders in list group it
 
 #### Health
 Dentist today, not easy eating lunch! Had dessert though, not that healthy, but it was the only way I could have some calories. 
+
+### R1D15
+I skipped a couple of days because of millitary service and no access to computer of any sort. Continue on day 15 even though it has passed more days in calendar time.
+
+#### Coding
+Started on coding on articles.html. 
+
+#### Health
+Nice to have a lot of vegetables after dry freezed food in the army. Had awesome homemade pasta and homemade spicy tomato sauce for dinner. 
